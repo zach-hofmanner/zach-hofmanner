@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Home Assistant Automations**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Ansible**
 
 - 👯 I’m looking to collaborate on **AD/365 PowerShell Automations**
 
